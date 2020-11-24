@@ -307,8 +307,8 @@ settings:
         # Address restrictions
         # ===========================
 
-        # Max number of registrations per IP (default: 1)
-        maxRegPerIp: 1
+        # Max number of registrations per IP (default: 4)
+        maxRegPerIp: 4
         # Maximum allowed number of Logins per IP, 0 to disable (default: 0)
         maxLoginPerIp: 0
         # Maximum allowed number of Joins per IP, 0 to disable (default: 0)
